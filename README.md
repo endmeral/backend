@@ -1,4 +1,4 @@
-#This is the backend for bachelors-project.
+## This is the backend for bachelors-project.
 
 In order to connect to a database, you will need to configure a credentials.env file, like this:
 ```
